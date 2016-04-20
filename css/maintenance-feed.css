@@ -1,0 +1,17 @@
+div.maintenance-feed {
+	background-color: #ccc;
+	border: 1px solid #ddd;
+}
+
+div.maintenance-feed ul {
+	list-style: none;
+	padding: 3px;
+	margin: 0px;
+}
+
+div.maintenance-feed li {
+}
+
+div.maintenance-feed span.maintenance-date {
+	padding-right: 5px;
+}
